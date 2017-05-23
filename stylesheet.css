@@ -6,7 +6,8 @@ h2, h3{ color:white;
    opacity: 0.75
    font-size: 25px;
 }
-img{size:100px
+img{
+   width:300px;
 }
 p{
    position:relative;
