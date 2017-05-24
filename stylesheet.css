@@ -21,4 +21,9 @@ background: -ms-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 26
 background: linear-gradient(to right, rgba(248,80,50,1) 0%, rgba(248,80,50,1) 26%, rgba(248,80,50,1) 34%, rgba(173,179,11,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', endColorstr='#adb30b', GradientType=1 );
 }
+
+p{color:black;
+   opacity: 0.75;
+   font-size: 25px;
+}
   
